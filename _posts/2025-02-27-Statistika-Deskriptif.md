@@ -86,13 +86,3 @@ Berikut merupakan penjelasan mengenai variasi dan standar deviasi.
 ---
 ### Kesimpulan
 Statistika deskriptif membantu dalam menganalisis dan menyajikan data melalui ukuran pemusatan seperti mean, median, dan modus, serta ukuran penyebaran seperti variansi dan standar deviasi. Mean digunakan untuk menghitung rata-rata, median untuk menentukan nilai tengah, dan modus untuk menemukan nilai yang paling sering muncul. Sementara itu, variansi dan standar deviasi mengukur seberapa tersebar data dari rata-rata, di mana standar deviasi yang kecil menunjukkan data lebih konsisten, sedangkan standar deviasi yang besar menunjukkan data lebih bervariasi. Dengan memahami konsep ini, kita dapat menginterpretasikan data dengan lebih akurat dan mengambil keputusan berdasarkan pola yang ada. 📊✨
-
-
-
-
-
-
-
-
-
-
