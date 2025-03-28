@@ -1,7 +1,9 @@
 ---
 title: "Apa itu Statistika Deskriptif?"
 date: 2025-02-07 10:00:00 +0800
-categories: [Statistika]
+categories: 
+    - Statistika
+    - Statistika Deskriptif
 tags: [Statistika]
 ---
 
