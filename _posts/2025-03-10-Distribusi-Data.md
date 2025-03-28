@@ -56,7 +56,7 @@ Distribusi Normal (Distribusi Gauss) adalah distribusi probabilitas yang memilik
 * Mean, median, dan modus berada di titik yang sama.
 * Nilai yang lebih jauh dari mean semakin jarang terjadi.
 
----
+
 
 ## Untuk mengetahui sebuah kumpulan data berdistribusi normal atau tidak, dapat dilakukan dengan 2 cara
 1. Visualisasi
@@ -77,7 +77,7 @@ Distribusi Normal (Distribusi Gauss) adalah distribusi probabilitas yang memilik
         * Titik-titik data mengikuti garis diagonal hampir secara sempurna.
         * Tidak ada pola melengkung atau penyimpangan signifikan dari garis lurus.
         * Pada bagian ekor (ujung kiri dan kanan), titik-titik tetap dekat garis tanpa menyimpang terlalu jauh.
-        
+
 ---
 ### Kesimpulan
 Memahami distribusi data sangat penting dalam analisis statistik. Dengan mengenali jenis distribusi data, kita dapat memilih metode analisis yang tepat, membuat prediksi yang lebih akurat, serta mengambil keputusan berbasis data dengan lebih baik. 🚀
