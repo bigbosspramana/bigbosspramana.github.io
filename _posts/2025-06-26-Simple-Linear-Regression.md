@@ -1,6 +1,6 @@
 ---
 title: "Simple Linear Regression"
-date: 2025-03-25 10:30:00 +0800
+date: 2025-06-26 10:30:00 +0800
 categories: 
   - Statistika
   - Regresi

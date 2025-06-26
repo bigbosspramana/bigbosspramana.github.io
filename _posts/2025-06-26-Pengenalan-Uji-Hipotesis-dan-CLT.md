@@ -1,6 +1,6 @@
 ---
 title: "Pengenalan Uji Hipotesis dan Central Limit Theorem"
-date: 2025-03-25 10:00:00 +0800
+date: 2025-06-26 10:00:00 +0800
 categories: 
   - Statistika
   - Uji Hipotesis

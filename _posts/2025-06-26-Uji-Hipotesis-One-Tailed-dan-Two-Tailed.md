@@ -1,6 +1,6 @@
 ---
 title: "Uji Hipotesis: One-Tailed dan Two-Tailed Test"
-date: 2025-03-25 10:10:00 +0800
+date: 2025-06-26 10:10:00 +0800
 categories: 
   - Statistika
   - Uji Hipotesis
